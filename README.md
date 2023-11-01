@@ -1,4 +1,5 @@
 # Vue. Vuetify 3. Remembering series
+This is a project used for study purposes only
 
 ## Stocks photo Project
 with vue routing 
